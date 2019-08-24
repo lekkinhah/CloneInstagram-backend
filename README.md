@@ -1,3 +1,4 @@
 # CloneInstagram-backend
 
-API desenvolvida em NODEJS para um exercício de criação de Instagram. 
+API developed with NODEJS based on Instagram. 
+
